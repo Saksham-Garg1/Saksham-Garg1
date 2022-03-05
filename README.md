@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saksham-Garg1
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Data strucutres
+- 🌱 I’m currently learning C++
 
 <!---
 Saksham-Garg1/Saksham-Garg1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
